@@ -1,2 +1,2 @@
-console.log("merge.js");
-console.log("TODO");
+console.log("merge-conflicts");
+console.log("main");
