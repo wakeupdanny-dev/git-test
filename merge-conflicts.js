@@ -1,2 +1,3 @@
 console.log("merge-conflicts");
-console.log("merge");
+console.log("merge1");
+
